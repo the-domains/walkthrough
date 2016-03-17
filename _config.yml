@@ -1,7 +1,7 @@
-name: WalkThrough
+name: Walk Through International
 favicon: null
-layout_spectrum: 0.10944665945135057
-typography_spectrum: 0.29828876815736294
+layout_spectrum: 1
+typography_spectrum: 0.43352
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.9970310563221574
-  lightness: 0.4344403906725347
-  saturation: 0.10099163162522018
-  rhythmicContrast: 0.8369927399326116
+    - '#dee3fa'
+    - '#2d60ea'
+    - '#003000'
+    - '#0b0066'
+    - '#8db73a'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
